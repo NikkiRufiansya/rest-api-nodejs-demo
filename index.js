@@ -66,7 +66,7 @@ app.get('/games', (req, res) => {
             {
                 title: 'Dota 2',
                 genre: 'Strategy',
-                images: 'https://pbs.twimg.com/profile_images/1478893871199186945/1mA6tezL_400x400.jpg',
+                images: 'https://seeklogo.com/images/D/dota-2-logo-556BDCC022-seeklogo.com.png',
                 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
             },
             {
